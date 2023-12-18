@@ -1,0 +1,16 @@
+com\krakedev\test\TestContarPerdidos.class
+com\krakedev\test\TestTelefono.class
+com\krakedev\evaluacion\Directorio.class
+com\krakedev\test\TestContarFijos.class
+com\krakedev\test\TestIncorrectos.class
+com\krakedev\test\TestDireccion.class
+com\krakedev\test\TestContacto2.class
+com\krakedev\evaluacion\Telefono.class
+com\krakedev\test\TestAgregarContacto.class
+com\krakedev\test\TestMostrarTelefonos.class
+com\krakedev\test\TestBuscarPorCedula.class
+com\krakedev\test\TestDepurar.class
+com\krakedev\evaluacion\Contacto.class
+com\krakedev\evaluacion\Direccion.class
+com\krakedev\test\TestContacto.class
+com\krakedev\test\TestUltimaModificacion.class
